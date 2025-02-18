@@ -1,0 +1,10 @@
+{
+    "nombre": "Juan Manuel Perea Coronado",
+    "edad": 28,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos": ["Dibujar", "Ejercicio", "Anime", "Repostería"],
+    "noGustos": ["Trasnochar", "Estrés"],
+    "foto": "https://frogkun.com/wp-content/uploads/2014/12/vlcsnap-2014-12-15-10h10m49s254.png"
+}
+  

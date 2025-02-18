@@ -1,0 +1,10 @@
+{
+    "nombre": "Jhonier Ipia Noscue",
+    "edad": 25,
+    "carrera": "Tecnologia en Desarrollo de software",
+    "semestre": 6,
+    "gustos": ["Futbol", "Viajar"],
+    "noGustos": ["Ruido fuerte", "Tareas largas"],
+    "foto": "https://images.pexels.com/photos/879109/pexels-photo-879109.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+}
+  

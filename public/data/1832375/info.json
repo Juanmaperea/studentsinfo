@@ -1,0 +1,11 @@
+{
+    "nombre": "Jean Paul Davalos Valencia",
+    "edad": 25,
+    "carrera": "Ingenieria de sistemas",
+    "semestre": 6,
+    "gustos": ["Lectura", "Series", "Jugar", "Programar", "Escuchar musica"],
+    "noGustos": ["Despertarse temprano", "Cocinar", "Ruido fuerte", "Hacer oficio"],
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocJd8C6uXjgA3f-yvxNkrRqJTNO1fW5zB3v3G-kKLDHLwC0JqQX-=s317-c-no"
+}
+
+  

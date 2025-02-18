@@ -1,0 +1,9 @@
+{
+    "nombre": "Valentina Sanchez",
+    "edad": 27,
+    "carrera": "Tecnologia En Desarrollo De Software NOC",
+    "semestre": 6,
+    "gustos": ["Lectura", "Dormir", "Comer", "Escuchar Musica"],
+    "noGustos": ["Los granos", "La musica Popular", "Ruido fuerte", "Tareas largas"],
+    "foto": "https://campusvirtual.univalle.edu.co/moodle/pluginfile.php/2984661/user/icon/mooveuv/f1?rev=69173531"
+}

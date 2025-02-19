@@ -1,0 +1,10 @@
+{
+    "nombre": "Juan Pablo Ante Suárez",
+    "edad": 21,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 5,
+    "gustos": ["Videojuegos", "Cine", "Deportes", "Libros", "Música"],
+    "noGustos": ["América de Cali", "Tomate de árbol"],
+    "foto": "https://pbs.twimg.com/profile_images/1638230095859949589/F9PWREF9_400x400.jpg"
+}
+  

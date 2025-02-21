@@ -1,0 +1,10 @@
+{
+    "nombre": "David Alejandro Enciso Gutierrez",
+    "edad": 25,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos": ["Leer", "Escuchar música", "Salir a comer", "Jugar videojuegos"],
+    "noGustos": ["La Casa de los Famosos", "Callo de Vaca"],
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwSoHljJrUDnX2xVPebBW0DfcSIrb-ICbAEOYJ3MLKQQRYU_keVBcjViRFkvw7BYg05zYznOmnR7lf4M7mi_YiHA"
+}
+  

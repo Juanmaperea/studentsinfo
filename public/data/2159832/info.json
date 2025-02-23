@@ -1,0 +1,10 @@
+{
+    "nombre": "Miguel Angel Escobar Velez",
+    "edad": 21,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos": ["Salir", "Música", "Series", "Videojuegos"],
+    "noGustos": ["Tareas", "Ruidos Fuerte"],
+    "foto": "https://tower-dungeon.com/wp-content/uploads/2025/01/Tower-Dungeon-Manga-Volume-3.webp"
+}
+  
